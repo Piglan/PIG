@@ -1,2 +1,0 @@
-# PIG
-The Pig website
